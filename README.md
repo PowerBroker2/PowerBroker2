@@ -2,6 +2,7 @@
 <h3 align="center">Electrical Engineer making open-source robotics and software projects for fun!</h3>
 
 [![PowerBroker2's github stats](https://github-readme-stats.vercel.app/api?username=PowerBroker2&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PowerBroker2)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=powerbroker2&label=Profile%20views&color=0e75b6&style=flat" alt="powerbroker2" /> </p>
 
