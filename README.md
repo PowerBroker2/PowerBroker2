@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PowerBroker2</h1>
-<h3 align="center">Electrical Engineer making open-source robotics and software projects for fun!</h3>
+<h3 align="center">Electrical engineer making open-source robotics and software projects for fun!</h3>
 
 [![PowerBroker2's github stats](https://github-readme-stats.vercel.app/api?username=PowerBroker2&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PowerBroker2)](https://github.com/anuraghazra/github-readme-stats)
