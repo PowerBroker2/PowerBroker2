@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PowerBroker2</h1>
 <h3 align="center">Electrical engineer making open-source robotics and software projects for fun!</h3>
 
-<h4 align="center">🔭 I’m currently working on **Arduino RC Planes**</h4>
+<h4 align="center">🔭 I’m currently working on Arduino-Based UAVs (personal hobby)</h4>
 
 [![PowerBroker2's github stats](https://github-readme-stats.vercel.app/api?username=PowerBroker2&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
