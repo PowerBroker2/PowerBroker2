@@ -3,10 +3,6 @@
 
 - 🔭 I’m currently working on **Arduino RC Planes**
 
-- 🌱 I’m currently learning **JavaScript and HTML**
-
-- 🤝 I’m looking for help with **Advanced GUI Design**
-
 [![PowerBroker2's github stats](https://github-readme-stats.vercel.app/api?username=PowerBroker2&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
